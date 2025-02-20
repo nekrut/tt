@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "My Page Title"
+title: "AN"
 date: 2025-02-20
-permalink: /my-page/
-categories: [docs, examples]
 ---
 
 ## Here we go
